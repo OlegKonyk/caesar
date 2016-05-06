@@ -1147,7 +1147,6 @@ hr,
   word-break: break-all;
   word-break: break-word;
   -webkit-hyphens: auto;
-  -moz-hyphens: auto;
   -ms-hyphens: auto;
       hyphens: auto;
 }
@@ -1788,7 +1787,6 @@ p.post-wide {
   word-break: break-all;
   word-break: break-word;
   -webkit-hyphens: auto;
-  -moz-hyphens: auto;
   -ms-hyphens: auto;
       hyphens: auto;
 }
