@@ -20,6 +20,10 @@ code {
   color: #0d0d0d;
   background-color: #dedede;
 }
+.hljs {
+  margin: -16px !important;
+  padding: 16px !important;
+}
 .form-label {
   font-weight: 300;
 }

@@ -490,7 +490,7 @@ h6,
 }
 body,
 .p {
-  font-size: 1rem;
+  font-size: 1.2rem;
   line-height: 24px;
 }
 small,
@@ -1643,7 +1643,7 @@ p.post-wide {
   }
   .post-sidebar {
     padding-top: 80px;
-    width: 96px;
+    width: 48px;
     margin-left: -128px;
   }
   .post-sidebar .meta-action {
@@ -1674,14 +1674,14 @@ p.post-wide {
 }
 @media (min-width: 1169px) {
   .post-wrapper {
-    padding-right: 96px;
+    padding-right: 48px;
   }
   .post-item {
     padding-bottom: 32px;
     margin-bottom: 32px;
   }
   .post-wide {
-    margin-right: -96px;
+    margin-right: -48px;
   }
 }
 @media (min-width: 1353px) {
